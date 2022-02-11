@@ -12,7 +12,7 @@ Examples use common, non-astronomical data sets, for the following reasons:
 
 In order to eb able to run all example code it should suffice to create a conda environment using the requirements file in this repo:
 ```bash
-$ conda create -n ds4s -f environment.yml
+$ conda env create -n ds4s -f environment.yml
 $ conda activate ds4s
 ```
 It is all based on Python 3.9.
